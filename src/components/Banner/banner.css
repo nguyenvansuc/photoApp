@@ -1,0 +1,13 @@
+.banner {
+  background-image: url(https://images.wallpaperscraft.com/image/single/girl_hand_jeans_167219_2560x1024.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 200px;
+  color: rgba(255, 255, 255, 0.65);
+  font-size: 55px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 -40px;
+}
